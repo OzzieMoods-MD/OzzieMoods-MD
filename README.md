@@ -2,7 +2,7 @@
   <img width="100%" height="auto" src="https://k.top4top.io/p_31878lqk00.jpg">
 </p>
 
-#### *I'm a passionate `developer` with expertise in various programming languages and **technologies.** I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!*
+• *I'm a passionate `developer` with expertise in various programming languages and **technologies**. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!*
 
 ### ⚡ *Technologies*
 
@@ -16,7 +16,7 @@
 
 ### 🌐 *Connect with Me*
 
-Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
+  • *Feel free to reach out if you want to collaborate on **projects**, discuss technology, or just chat!*
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6283847921480)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/rozhakid)
